@@ -20,5 +20,5 @@ Edit env for your database
       php artisan serve
 ```
 
-## Добавить телефоны в бд GET http://127.0.0.1:8001/addPhones
-## Вывести телефоны из бд GET http://127.0.0.1:8001/phones
+## Добавить телефоны в бд GET http://127.0.0.1:8000/addPhones
+## Вывести телефоны из бд GET http://127.0.0.1:8000/phones
